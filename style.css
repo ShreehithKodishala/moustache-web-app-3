@@ -1,0 +1,41 @@
+h3 {
+
+    box-shadow: 3px 3px cyan;
+    text-shadow: 2px 2px greenyellow;
+    font-size: 30px !important;
+    font-style: italic;
+    color: black !important;
+    
+
+}
+
+button {
+
+
+text-shadow: 1px 1px greenyellow;
+box-shadow: 3px 3px lightcoral;
+font-size: 17px !important;
+
+}
+
+.btn-danger:hover{
+
+background-color: gold;
+text-shadow: cyan;
+color: blue;
+
+
+}
+
+.btn-primary:hover{
+
+background-color: coral;
+
+}
+
+canvas {
+
+   border: 7px gold solid;
+   box-shadow: 3px 3px chartreuse;
+
+}
